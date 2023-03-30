@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(55, 66, 68);
+  }
+  h1 {
+    color: blue;
+    padding: 10px;
+    border: 2px;
+    /* solid: red; */
+  }
+
+  /* p {
+    color: red;
+  } */
